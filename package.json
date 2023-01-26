@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "prettier index.ts"
+    "test": "prettier index.ts",
+    "test:write": "prettier --write index.ts"
   },
   "author": "",
   "license": "ISC",
